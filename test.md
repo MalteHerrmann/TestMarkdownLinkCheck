@@ -9,7 +9,7 @@ It seems like there is a problem with sections that contain spaces? [No Problems
 
 What happens when only checking changed files and a file is deleted? Does the check show a broken link in the unchanged file that refers to the [deleted file](./docs/testfile2.md)?
 
-As expected, only when this file is changed again, the broken link to the deleted file is noticed by the check.
+As expected, only when this file is changed again, the broken link to the deleted file is noticed by the check..
 
 ## Get Started
 
